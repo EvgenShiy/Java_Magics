@@ -1,0 +1,1 @@
+Домашние задания к курсу Java Magic от FAANG School.
